@@ -1,25 +1,34 @@
-## debloat
-
-
-
-Colons can be used to align columns.
-
 | Tables        | Are           |
 | ------------- |:-------------:|
+| GraphicalUserInterfaceSettings: Banner| right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
 
 
-
-
-
-
-
-
 Key	                                                                                      Value
-GraphicalUserInterfaceSettings: Banner	                                                  false
+                                                  false
 GraphicalUserInterfaceSettings: Donate Button State	                                      Hidden (Automode)
 GraphicalUserInterfaceSettings: Look And Feel Theme	                                      BLACK_EYE
 GraphicalUserInterfaceSettings: Premium Alert ETA Column	                                false
