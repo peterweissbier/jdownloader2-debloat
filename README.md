@@ -1,4 +1,4 @@
-| Tables        | Are           |
+| Key        | Value           |
 | ------------- |------------:|
 |GraphicalUserInterfaceSettings: Banner|false|
 |GraphicalUserInterfaceSettings: Donate Button State|Hidden (Automode)|
