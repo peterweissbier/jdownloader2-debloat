@@ -1,5 +1,5 @@
 | Key        | Value           |
-| ------------- |------------:|
+
 |GraphicalUserInterfaceSettings: Banner|false|
 |GraphicalUserInterfaceSettings: Donate Button State|Hidden (Automode)|
 |GraphicalUserInterfaceSettings: Premium Alert ETA Column|false|
