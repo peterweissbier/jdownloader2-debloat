@@ -1,13 +1,13 @@
 | Tables        | Are           |
 | ------------- |:-------------:|
-| GraphicalUserInterfaceSettings: Banner| right-aligned |
-| GraphicalUserInterfaceSettings: Donate Button State Hidden (Automode)| centered      |
-|GraphicalUserInterfaceSettings: Look And Feel Theme| are neat      |
-|| right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
+|GraphicalUserInterfaceSettings: Banner|false|
+|GraphicalUserInterfaceSettings: Donate Button State|Hidden (Automode)|
+|GraphicalUserInterfaceSettings: Look And Feel Theme|BLACK_EYE|
+|GraphicalUserInterfaceSettings: Premium Alert ETA Column|false|
+|GraphicalUserInterfaceSettings: Premium Alert Speed Column|false|
+|GraphicalUserInterfaceSettings: Premium Alert Task Column|false|
+|GraphicalUserInterfaceSettings: Special Deal Oboom Dialog Visible On Startup|false|
+|GraphicalUserInterfaceSettings: Special Deals|false|
 | zebra stripes | are neat      |
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |
@@ -27,15 +27,6 @@
 
 
 
-Key	                                                                                      Value
-                                                  false
-	                                      
-	                                      BLACK_EYE
-GraphicalUserInterfaceSettings: Premium Alert ETA Column	                                false
-GraphicalUserInterfaceSettings: Premium Alert Speed Column	                              false
-GraphicalUserInterfaceSettings: Premium Alert Task Column	                                false
-GraphicalUserInterfaceSettings: Special Deal Oboom Dialog Visible On Startup	            false
-GraphicalUserInterfaceSettings: Special Deals	                                            false
 
 Dark Mode
 Key                                                                                       Value
