@@ -30,6 +30,6 @@
 |LAFSettings: Color For Tooltip Foreground|#ffffffff|
 |LAFSettings: Config Disabled Text Color|#ff666666|
 |LAFSettings: Config Enabled Text Color|#ffffffff|
-| ------------- ||-------------|
+||||
 
 [dark mode](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme?tab=readme-ov-file#installing)
