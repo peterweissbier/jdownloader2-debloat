@@ -1,5 +1,23 @@
 ## debloat
 
+
+
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+
+
+
+
+
+
 Key	                                                                                      Value
 GraphicalUserInterfaceSettings: Banner	                                                  false
 GraphicalUserInterfaceSettings: Donate Button State	                                      Hidden (Automode)
